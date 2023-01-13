@@ -46,9 +46,9 @@ Belajar HTML untuk menjadi web developer
 ---
 
 ## Sumber belajar
-[Platform dicoding](https://www.dicoding.com/academies/123)
-[Channel youtube wpu](https://www.youtube.com/@sandhikagalihWPU)
-[Website Petani kode](https://www.petanikode.com/)
+1. [Platform dicoding](https://www.dicoding.com/academies/123)
+2. [Channel youtube wpu](https://www.youtube.com/@sandhikagalihWPU)
+3. [Website Petani kode](https://www.petanikode.com/)
 
 ---
 
