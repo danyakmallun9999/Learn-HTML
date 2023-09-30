@@ -16,7 +16,14 @@ Belajar HTML untuk menjadi web developer
     - Long quotations
         ```html
         <blockquote>
-        <p> Situs web (bahasa Inggris: website) adalah sekumpulan halaman web yang saling berhubungan yang umumnya berada pada peladen yang sama berisikan kumpulan informasi yang disediakan secara perorangan, kelompok, atau organisasi. </p>
+        <p> 
+            Situs web (bahasa Inggris: website) adalah 
+            sekumpulan halaman web yang saling berhubungan 
+            yang umumnya berada pada peladen yang 
+            sama berisikan kumpulan informasi yang 
+            disediakan secara 
+            perorangan, kelompok, atau organisasi. 
+        </p>
         </blockquote>
         ```
     - Preformatted text
