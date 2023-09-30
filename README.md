@@ -12,11 +12,10 @@ Belajar HTML untuk menjadi web developer
 - Heading
 - List
 - Image
-- Teks terformat
+- Inline formating text
     - Long quotations
     - Preformatted text
     - Figure
-- Inline formating text
     - Anchor
         ```html
         <p>Hubungi kami di</p>
