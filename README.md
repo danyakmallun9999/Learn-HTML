@@ -21,11 +21,11 @@ Belajar HTML untuk menjadi web developer
     - Emphssized text
     - important text
     - short quotations
-- Citation
-- Defining terms
-- Subscript dan Superscript
-- Highlighted text
-- Line Break
+    - Citation
+    - Defining terms
+    - Subscript dan Superscript
+    - Highlighted text
+    - Line Break
 - Semantic HTML 5
     - Header
     - Footer
