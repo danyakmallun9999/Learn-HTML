@@ -18,8 +18,24 @@ Belajar HTML untuk menjadi web developer
     - Figure
 - Inline formating text
     - Anchor
+        ```html
+        <p>Hubungi kami di</p>
+        <ul>
+            <li><a href="https://example.com">Website</a></li>
+            <li><a href="mailto:info@example.com">Email</a></li>
+            <li><a href="tel:+62123456">Telepon</a></li>
+            <li><a href="#address">Alamat</a></li>
+        </ul>
+        ```
     - Emphssized text
+        ```html
+        <p><em>Oding</em> adalah seorang pelajar</p>
+        <p>Dia adalah seorang <em>pelajar</em></p>
+        ```
     - important text
+        ```html
+        <p>Kesehatan merupakan hal yang penting, jaga pola makan yang teratur dan <strong>jangan sampai makan tengah malam!</strong></p>
+        ```
     - short quotations
     - Citation
     - Defining terms
@@ -42,6 +58,7 @@ Belajar HTML untuk menjadi web developer
     - Spanning Cell
     - Elemen dan Atribut pada Tabel
 - special Character
+
 
 ---
 
