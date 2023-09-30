@@ -33,7 +33,7 @@ Belajar HTML untuk menjadi web developer
         ```
     - important text
         ```html
-        <p>Kesehatan merupakan hal yang penting, jaga pola makan yang teratur dan <strong>jangan sampai makan tengah malam!</strong></p>
+        <p>jaga pola makan yang teratur dan <strong>jangan sampai makan tengah malam!</strong></p>
         ```
     - short quotations
     - Citation
