@@ -1,6 +1,6 @@
 # Learn-HTML
 
-![Gambar logo html](https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80)
+![Gambar logo html](https://www.freecodecamp.org/news/content/images/2023/03/HTML-Blog-Cover-1.png)
 
 Belajar HTML untuk menjadi web developer
 
