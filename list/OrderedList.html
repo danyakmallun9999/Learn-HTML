@@ -4,8 +4,57 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ordered List</title>
+    <style>
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        ul li {
+            float: left;
+        }
+        li a {
+            text-decoration: none;
+            color: black;
+            padding: 10px;
+            height: 20px;
+            display: block;
+            background-color: beige;
+            text-transform: uppercase;
+        }
+        ul a:hover {
+            color: white;
+            background-color: dimgray;
+        }
+    </style>
 </head>
 <body>
     <p>Mencoba List di HTML</p>
+    <ol type="A" start="3">
+        <li>Anchor element</li>
+        <li>Small element
+            <ol>
+                <li>Masa sih</li>
+                <li>OMG</li>
+            </ol>
+        </li>
+        <li>Strong italic</li>
+    </ol>
+    <ol type="circle" start="3">
+        <li>Anchor element</li>
+        <li>Small element
+            <ol type="i">
+                <li>Masa sih</li>
+                <li>OMG</li>
+            </ol>
+        </li>
+        <li>Strong italic</li>
+    </ol>
+
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="login.html">login</a></li>
+        <li><a href="pendaftaran.html">Pendaftaran</a></li>
+    </ul>
 </body>
 </html>
